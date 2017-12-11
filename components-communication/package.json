@@ -1,8 +1,8 @@
 {
   "name": "components-communication",
-  "description": "A Vue.js project",
+  "description": "vue2.0组件之间的通信",
   "version": "1.0.0",
-  "author": "Artila <529276960@qq.com>",
+  "author": "Artila <eningi@qq.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
